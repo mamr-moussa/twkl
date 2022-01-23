@@ -6,7 +6,7 @@ module.exports = {
     manifestOptions: {
       name: "Tawakkalna",
       short_name: "Tawakkalna",
-      start_url: "./",
+      start_url: ".",
       display: "standalone",
       theme_color: "#101218"
     },
